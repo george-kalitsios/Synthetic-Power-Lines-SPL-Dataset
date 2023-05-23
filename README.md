@@ -5,5 +5,5 @@ The large-scale **Synthetic Power Lines (SPL) dataset** was generated using unit
 
 #### **SPL Dataset** can be downloaded through this link: 
 (the URL will be made available after the conference.)
-
+<!-- https://aristotleuniversity-my.sharepoint.com/personal/dpsarras_office365_auth_gr/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fdpsarras_office365_auth_gr%2FDocuments%2FShared_Folder&ga=1 -->
 #### Key Publication:
