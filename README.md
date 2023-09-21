@@ -15,3 +15,4 @@ Contact: Prof. I. Pitas
 pitas@csd.auth.gr
 <!-- https://aristotleuniversity-my.sharepoint.com/personal/dpsarras_office365_auth_gr/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fdpsarras_office365_auth_gr%2FDocuments%2FShared_Folder&ga=1 -->
 #### Key Publication:
+G. Kalitsios, V. Mygdalis and I. Pitas, "Domain Adaptation in Power Line Segmentation: A New Synthetic Dataset," 2023 IEEE International Conference on Image Processing (ICIP), Kuala Lumpur, Malaysia, 2023, pp. 1820-1824, doi: 10.1109/ICIP49359.2023.10222078.
